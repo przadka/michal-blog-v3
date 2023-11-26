@@ -32,21 +32,21 @@ This tool isn’t just about convenience; it’s a gateway to smarter decision-m
 
 In addition to the activities in the "5-minute section", I recommend diving into these three resources for a deeper understanding:
 
-    - [My First Two Months As A Prompt Engineering Intern](https://www.linkedin.com/pulse/my-first-two-months-prompt-engineering-intern-michal-przadka) - My own article where I cover various practical scenarios where ChatGPT can be effectively utilized. These examples should give you a clearer picture of how GPT can fit into your daily professional tasks.
-    - [Basic Prompting with ChatGPT](https://learnprompting.org/docs/basics/prompting) - A concise article with basic tips and simple examples to get you started with ChatGPT.
-    - [Midjourney Sub Reddit](https://www.reddit.com/r/midjourney/) - For a glimpse into the creative possibilities, browse the images shared in this subreddit. It's a window into the diverse and innovative applications of AI in image generation.
+- [My First Two Months As A Prompt Engineering Intern](https://www.linkedin.com/pulse/my-first-two-months-prompt-engineering-intern-michal-przadka) - My own article where I cover various practical scenarios where ChatGPT can be effectively utilized. These examples should give you a clearer picture of how GPT can fit into your daily professional tasks.
+- [Basic Prompting with ChatGPT](https://learnprompting.org/docs/basics/prompting) - A concise article with basic tips and simple examples to get you started with ChatGPT.
+- [Midjourney Subreddit](https://www.reddit.com/r/midjourney/) - For a glimpse into the creative possibilities, browse the images shared in this subreddit. It's a window into the diverse and innovative applications of AI in image generation.
 
 I hope these 30 minutes provide you with a comprehensive toolkit and basic understanding of AI's most powerful tools, enabling you to apply them effectively in your professional context.
 
-#### 3-Hour Masterclass
+## 3-Hour Masterclass
 
 Everything above and:
 
-    - [Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - An amazing talk from Andrew Ng, a legend in the machine learning field. In less than 40 minutes, he covers both theory and practice with a simple and refreshing approach.
-    - [The Business of AI](https://www.youtube.com/watch?v=knHW-p31R0c) - A panel discussion featuring executives from Shopify, Typeform, and Salesforce, focusing on how to build and launch successful AI products.
-    - [The Potential of GenAI in Healthcare](https://www.pwc.com/us/en/industries/health-industries/health-research-institute/next-in-health-podcast/the-potential-of-genai-in-health-industries.html) - A short 15-minute conversation between senior leaders at PwC discussing applications of generative AI in health and health insurance industries.
-    - [Unbundling AI](https://www.ben-evans.com/benedictevans/2023/10/5/unbundling-ai) - A short essay from Ben Evans offering reflections and predictions on the future of AI.
-    - [LLMs in My Engineering Workflow](https://blog.toasterthoughts.eu/posts/llms-in-engineering) - My own blog post, where I explore various ways of incorporating LLMs into the software development lifecycle.
+- [Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - An amazing talk from Andrew Ng, a legend in the machine learning field. In less than 40 minutes, he covers both theory and practice with a simple and refreshing approach.
+- [The Business of AI](https://www.youtube.com/watch?v=knHW-p31R0c) - A panel discussion featuring executives from Shopify, Typeform, and Salesforce, focusing on how to build and launch successful AI products.
+- [The Potential of GenAI in Healthcare](https://www.pwc.com/us/en/industries/health-industries/health-research-institute/next-in-health-podcast/the-potential-of-genai-in-health-industries.html) - A short 15-minute conversation between senior leaders at PwC discussing applications of generative AI in health and health insurance industries.
+- [Unbundling AI](https://www.ben-evans.com/benedictevans/2023/10/5/unbundling-ai) - A short essay from Ben Evans offering reflections and predictions on the future of AI.
+- [LLMs in My Engineering Workflow](https://blog.toasterthoughts.eu/posts/llms-in-engineering) - My own blog post, where I explore various ways of incorporating LLMs into the software development lifecycle.
 
 By dedicating three hours to these materials, you'll gain a deeper, multifaceted understanding of AI's current landscape and future potential. I hope it will give you some more advanced insights and practical knowledge you can apply in your industry.
 
@@ -54,10 +54,10 @@ By dedicating three hours to these materials, you'll gain a deeper, multifaceted
 
 Apart from everything above also include:
 
-    - [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - This non-technical course by Andrew Ng is designed to help you understand AI technologies and identify applications in your organization. It’s a great resource for those new to AI, providing a comprehensive yet accessible overview.
-    - [FT Article on Transformers](https://ig.ft.com/generative-ai/) - A visually engaging and simple explanation of how modern large language models work. This article is well-presented, making complex concepts approachable.
-    - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - A more technical yet accessible video by Andrej Karpathy, another legend in the field. It offers a solid overview of Large Language Models, ideal for strengthening your technical understanding.
-    - [Quick Start Guide on Midjourney](https://docs.midjourney.com/docs/quick-start) - Setting up a Midjourney account involves navigating Discord, an online messaging platform. This guide provides clear instructions on using Discord to create stunning images with Midjourney, even for those new to the platform.
+- [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) - This non-technical course by Andrew Ng is designed to help you understand AI technologies and identify applications in your organization. It’s a great resource for those new to AI, providing a comprehensive yet accessible overview.
+- [FT Article on Transformers](https://ig.ft.com/generative-ai/) - A visually engaging and simple explanation of how modern large language models work. This article is well-presented, making complex concepts approachable.
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) - A more technical yet accessible video by Andrej Karpathy, another legend in the field. It offers a solid overview of Large Language Models, ideal for strengthening your technical understanding.
+- [Quick Start Guide on Midjourney](https://docs.midjourney.com/docs/quick-start) - Setting up a Midjourney account involves navigating Discord, an online messaging platform. This guide provides clear instructions on using Discord to create stunning images with Midjourney, even for those new to the platform.
 
 Spending five evenings with these resources will enrich your understanding of AI, bridging the gap between foundational knowledge and advanced concepts. It should give you a well-rounded perspective, deeper insights and practical skills to navigate and leverage AI in your specific field.
 
