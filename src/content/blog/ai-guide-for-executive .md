@@ -34,7 +34,7 @@ In addition to the activities in the "5-minute section", I recommend diving into
 
 - [My First Two Months As A Prompt Engineering Intern](https://www.linkedin.com/pulse/my-first-two-months-prompt-engineering-intern-michal-przadka) - My own article where I cover various practical scenarios where ChatGPT can be effectively utilized. These examples should give you a clearer picture of how GPT can fit into your daily professional tasks.
 - [Basic Prompting with ChatGPT](https://learnprompting.org/docs/basics/prompting) - A concise article with basic tips and simple examples to get you started with ChatGPT.
-- [Midjourney Subreddit](https://www.reddit.com/r/midjourney/) - For a glimpse into the creative possibilities, browse the images shared in this subreddit. It's a window into the diverse and innovative applications of AI in image generation.
+- [Midjourney Subreddit](https://www.reddit.com/r/midjourney/?f=flair_name%3A%22Showcase%22) - For a glimpse into the creative possibilities, browse the images shared in this subreddit. It's a window into the diverse and innovative applications of AI in image generation.
 
 I hope these 30 minutes provide you with a comprehensive toolkit and basic understanding of AI's most powerful tools, enabling you to apply them effectively in your professional context.
 
