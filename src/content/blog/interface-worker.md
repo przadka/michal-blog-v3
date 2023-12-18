@@ -24,7 +24,7 @@ And that's when I began to question the point of getting this certification. Wha
 
 When I finally decided not to take the exam, it struck me as something profound, a deep insight into the future we are heading towards. I didn’t fully grasp it then, but this realization greatly influenced many of my decisions thereafter.
 
-I'm writing this in December 2023. It's been only a year since ChatGPT was introduced, yet its impact has been monumental. What seemed impossible – creating beautiful images, automating publishing or just talking to a computer – has now become routine. It is possible that foundational models like GPT or Claude will become as commoditized and invisible as transistors or operating systems, embedded into our society. The impact of this is hard to underestimate.
+I'm writing this in December 2023. It's been only a year since ChatGPT was introduced, yet its impact has been monumental. What seemed impossible – creating beautiful images, automating publishing or just talking to a computer – has now become routine. It is possible that foundation models like GPT or Claude will become as commoditized and invisible as transistors or operating systems, embedded into our society. The impact of this is hard to underestimate.
 
 It's evident that a lot of cognitive work is going to be automated. This won't be a walk in the park, and [few people seem to realize this](https://www.pwc.com/gx/en/issues/workforce/hopes-and-fears.html). Even the term "automation" doesn't quite do justice here; it implies something mechanical, laborious, and repetitive – tasks we'd [happily outsource to robots](https://en.wikipedia.org/wiki/Robotic_process_automation). But the automation enabled by AI and large language models goes far beyond this.
 
