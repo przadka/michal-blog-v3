@@ -15,6 +15,9 @@ Yesterday I used [Suno AI](https://www.suno.ai/) to turn these old lyrics into 
 It took me 30 minutes to get a result that I am happy with, maybe even proud. It's a song that I always wished I could share with people, but without AI, I never would have. And now I can. I invite you to listen to it and let me know what you think about it. The song is in Polish because the original lyrics were in Polish. The title is Rocznica, which translates into Anniversary. I added English subtitles as well.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BzILl7vkDqo?si=zW_ajL4Zbr_4DQyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video controls="">
+  <source src="/assets/rocznica_video.mp4"  type="video/mp4">
+</video>
+
 
 There is something new unrolling in front of our eyes, and creating this song I witnessed a glimpse of the future. I have no doubt that these tools will dramatically change the way we express, create, and interact with each other. They will give us new ways to share emotions, joy, or maybe even insights. I am hopeful and excited.
